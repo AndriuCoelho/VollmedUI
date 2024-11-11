@@ -38,6 +38,8 @@ public struct ConfirmPrimaryButtonStyle: ButtonStyle {
             .cornerRadius(12)
             .padding(.top, 8)
     }
+    
+    public init() {}
 }
 
 public struct CancelButtonStyle: ButtonStyle {
