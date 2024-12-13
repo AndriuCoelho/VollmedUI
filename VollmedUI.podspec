@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VollmedUI'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Design system module used in the Vollmed application'
 
 # This description is used to generate tags and improve search results.
