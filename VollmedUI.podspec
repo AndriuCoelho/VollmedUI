@@ -22,8 +22,8 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/101216155/VollmedUI'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '101216155' => 'mah.c5r@gmail.com' }
-  s.source           = { :git => 'https://github.com/101216155/VollmedUI.git', :tag => s.version.to_s }
+  s.author           = { '101216155' => 'AndriuCoelho' }
+  s.source           = { :git => 'https://github.com/AndriuCoelho/VollmedUI.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '16.0'
