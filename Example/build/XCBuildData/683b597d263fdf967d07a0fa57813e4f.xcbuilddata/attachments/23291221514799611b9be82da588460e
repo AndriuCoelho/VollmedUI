@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Release-iphoneos/VollmedUI/VollmedUI.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Release-iphoneos/VollmedUI/VollmedUI.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "VollmedUI-Swift.h",
+      'external-contents': "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/unextended-interface-header.h",
+    }]
+    }]
+}

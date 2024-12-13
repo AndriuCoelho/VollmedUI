@@ -1,0 +1,25 @@
+{
+  "" : {
+    "const-values" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedUI-master.swiftconstvalues",
+    "dependencies" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedUI-master.d",
+    "diagnostics" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedUI-master.dia",
+    "emit-module-dependencies" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedUI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedUI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedUI-master.swiftdeps"
+  },
+  "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Components/VollmedTooltipView.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedTooltipView.o",
+    "llvm-bc" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedTooltipView.bc",
+    "object" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedTooltipView.o"
+  },
+  "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedButtonStylesUI.o",
+    "llvm-bc" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedButtonStylesUI.bc",
+    "object" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedButtonStylesUI.o"
+  },
+  "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedTextStylesUI.o",
+    "llvm-bc" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedTextStylesUI.bc",
+    "object" : "/Users/andriucoelho/Desktop/VollmedUI/Example/build/Pods.build/Release-iphoneos/VollmedUI.build/Objects-normal/arm64/VollmedTextStylesUI.o"
+  }
+}
