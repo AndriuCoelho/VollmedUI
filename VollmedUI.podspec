@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VollmedUI'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Design system module used in the Vollmed application'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '16.0'
   s.swift_version = '5.0'
 
-  s.source_files = 'VollmedUI/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   
   # s.resource_bundles = {
   #   'VollmedUI' => ['VollmedUI/Assets/*.png']
