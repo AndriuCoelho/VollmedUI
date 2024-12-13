@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VollmedUI'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'Design system module used in the Vollmed application'
 
 # This description is used to generate tags and improve search results.
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'Design system module used in the Vollmed application. This module contains all the visual components needed to use in the application'
 
-  s.homepage         = 'https://github.com/101216155/VollmedUI'
+  s.homepage         = 'https://github.com/AndriuCoelho/VollmedUI'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'AndriuCoelho' => 'andriu_coelho1993@hotmail.com' }
