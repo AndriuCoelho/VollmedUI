@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "d53f0d147379681de1b8831094ee26be9b7720bf2e7d67a78d639274471493a1"
+build_start_time: [1733877747, 435026000]
+build_end_time: [1733877749, 719097000]
+inputs:
+  "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Components/VollmedTooltipView.swift": [1733268757, 295702691]
+  "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift": [1731460105, 705915276]
+  "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Styles/VollmedTextStylesUI.swift": [1733873064, 114997126]

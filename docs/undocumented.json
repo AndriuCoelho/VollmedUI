@@ -1,0 +1,40 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Components/VollmedTooltipView.swift",
+      "line": 10,
+      "symbol": "VollmedTooltipView",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Components/VollmedTooltipView.swift",
+      "line": 19,
+      "symbol": "VollmedTooltipView.init(title:description:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift",
+      "line": 30,
+      "symbol": "ConfirmPrimaryButtonStyle",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift",
+      "line": 42,
+      "symbol": "ConfirmPrimaryButtonStyle.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/andriucoelho/Desktop/VollmedUI/VollmedUI/Classes/Styles/VollmedButtonStylesUI.swift",
+      "line": 45,
+      "symbol": "CancelButtonStyle",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/andriucoelho/Desktop/VollmedUI"
+}
